@@ -1,0 +1,6 @@
+.header .navbar{
+    background-color: black !important;
+  }
+  .header .navbar a{
+    color: white;
+  }
